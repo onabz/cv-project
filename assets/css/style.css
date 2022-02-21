@@ -19,6 +19,10 @@
     background-color: #9b59b6;
 }
 
+.bg-color-contact {
+    background-color: #fff;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -37,7 +41,10 @@
 
 /* -------------------------------------------Speacial paddings/margins/text */
 
-h1,h2,h3,h4 {
+h1,
+h2,
+h3,
+h4 {
     margin: 0;
 }
 
@@ -119,13 +126,13 @@ header {
     font-size: 0;
 }
 
-#nav {
-    margin: 0;
-}
-
 #nav li {
     font-size: 14px;
     padding: 0;
+}
+
+#nav {
+    margin: 0;
 }
 
 .menuitem {
@@ -228,7 +235,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/* -------------------------------------------Three reasons */
+/* -------------------------------------------Personal Info */
 
 .personal-info-item {
     margin-bottom: 20px;
